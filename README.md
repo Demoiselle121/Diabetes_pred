@@ -10,7 +10,7 @@ Deep Learning Model Evaluation
 
 # Technologies Used
 <ul>
-        <li><strong> Python: Pandas, Seaborn, Scikit-learn, Matplotlib </strong></ul>li>
+        <li><strong> Python: Pandas, Seaborn, Scikit-learn, Matplotlib </strong></ul>
         <li><strong> Deep Learning: Keras (TensorFlow backend) </strong></li>
         <li><strong>Tools: Jupyter Notebook </strong></li>
 </ul>
